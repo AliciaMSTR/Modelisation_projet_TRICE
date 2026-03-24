@@ -1,25 +1,18 @@
 # TRICE : Application de Transport Multimodal
 
-**Projet de Modélisation Objet** - L3 MIAGE FI, Université Évry Paris-Saclay (2025-2026).  
-Conception complète d'une plateforme unifiée pour les transports avec **soutenance fin de semestre**.
+**Projet de Modélisation Objet**,
+L3 MIAGE FI, Université Évry Paris-Saclay (2025-2026).  
+Conception complète d'une plateforme unifiée pour les transports avec soutenance fin de semestre.
 ## 1- Objectif
 
-Fusion des activités TRICE (bâtiment/transport/électronique) en **une seule plateforme** :  
+**Fusion des activités TRICE (bâtiment/transport/électronique) en une seule plateforme** :  
 - Commande/recharge cartes transport (physique/virtuelle)  
 - Réservation vélos/trottinettes (géolocalisation)  
 - Gestion agence (guichet/maintenance/admin)  
 - Support client (Trice-Bot/chat)
 
-## 2- Équipe
 
-| Rôle | Membre |
-|------|--------|
-| **Chef de projet** | Aïcha TAHAR BELLAR | 
-| **Backend Agents** | Viswadevi NARAYANA |
-| **Backend Admin** | Alicia MESTOUR |
-| **Frontend UI/UX** | Lina EL HATHOUT |
-
-## 3- Contenu du projet
+## 4- Contenu du projet
  - Diagramme cas d'utilisation (12 acteurs)
  - 8 Cas nominaux détaillés
  - 7 Diagrammes d'activité
@@ -29,14 +22,14 @@ Fusion des activités TRICE (bâtiment/transport/électronique) en **une seule p
  - Rapport 58 pages
 
 
-## 4- Outils utilisés
+## 5- Outils utilisés
 - **Draw.io** : Diagrammes UML
 - **Figma** : Maquettes interactives
 - **Canva** : Rapport
 - **WhatsApp/Discord** : Coordination
 
 
-## 5- Budget : **553 000€** [file:14]
+## 6- Budget : **553 000€**
 
 | Poste | Jours | Coût total |
 |-------|-------|------------|
@@ -45,7 +38,7 @@ Fusion des activités TRICE (bâtiment/transport/électronique) en **une seule p
 | Techniciens x10 | 120 | 300 000€ |
 | Frais divers | - | 25 000€ |
 
-## 6- Compétences
+## 7- Compétences
 - Modélisation UML complète
 - Gestion MOA/MOE
 - Travail collaboratif
